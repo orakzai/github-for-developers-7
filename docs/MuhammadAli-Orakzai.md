@@ -1,3 +1,4 @@
 ### My Bio
 
-** Muhammad Ali Orakzai **
+**Muhammad Ali Orakzai**
+**Favorite Color** Green
